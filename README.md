@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nicolas
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning DevOps and coding
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: nicolasm2@gmail.com
